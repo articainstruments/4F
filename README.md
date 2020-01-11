@@ -5,7 +5,7 @@
 PCB Schematic and Board (Diptrace)
 
 For more details, visit the module page:
-* https://instruments.artica.cc/module4f
+* https://instruments.artica.cc/shop/4f
 
 ### Description
 
